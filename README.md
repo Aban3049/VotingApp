@@ -1,4 +1,4 @@
-![votingAppAdminDashboard](https://github.com/Aban3049/VotingApp/assets/157634467/6bed6549-ac4d-498b-b86a-846f98e73b14)# Voting App
+#Voting App
 
 Welcome to the Voting App repository, where voting is made secure and accessible through biometric authentication. This application allows administrators to create user profiles for voters, who can then authenticate using fingerprint and face recognition to cast their votes.
 
@@ -8,11 +8,12 @@ Welcome to the Voting App repository, where voting is made secure and accessible
 - **Biometric Authentication**: Voters authenticate using fingerprint or face recognition to ensure secure access.
 - **Voter Credentials**: Admins provide credentials to voters for logging in to the app.
 - **Secure Voting Process**: The app ensures a secure and transparent voting process.
-![votingAppAdminDashboard](https://github.com/Aban3049/VotingApp/assets/157634467/4d19ee81-3dc1-47f4-9945-799b64d30fe9)
-![VotingAppAddPartyCandidate](https://github.com/Aban3049/VotingApp/assets/157634467/6adb86de-0ae4-485d-a33a-f189814700be)
-![VotinAppCreateUser](https://github.com/Aban3049/VotingApp/assets/157634467/e8798b6f-ad06-49f3-9c93-de9e34e930b3)
+  
+![VotinAppCreateUser](https://github.com/Aban3049/VotingApp/assets/157634467/b4012070-fac8-4300-85f2-c6d784c903e4)
 
+![votingAppAdminDashboard](https://github.com/Aban3049/VotingApp/assets/157634467/76633a4e-c20d-4976-818a-9b85051b8158)
 
+![VotingAppAddPartyCandidate](https://github.com/Aban3049/VotingApp/assets/157634467/096c5884-268b-4d28-ac4d-5425a6c5c1b8)
 
 ## Getting Started
 
