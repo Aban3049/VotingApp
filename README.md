@@ -5,14 +5,16 @@ Welcome to the Voting App repository, where voting is made secure and accessible
 ## Features
 
 - **Admin Control**: Admins can create and manage user profiles and add party members.
+  
+![votingAppAdminDashboard](https://github.com/Aban3049/VotingApp/assets/157634467/76633a4e-c20d-4976-818a-9b85051b8158)
+
 - **Biometric Authentication**: Voters authenticate using fingerprint or face recognition to ensure secure access.
 - **Voter Credentials**: Admins provide credentials to voters for logging in to the app.
-- **Secure Voting Process**: The app ensures a secure and transparent voting process.
   
 ![VotinAppCreateUser](https://github.com/Aban3049/VotingApp/assets/157634467/b4012070-fac8-4300-85f2-c6d784c903e4)
 
-![votingAppAdminDashboard](https://github.com/Aban3049/VotingApp/assets/157634467/76633a4e-c20d-4976-818a-9b85051b8158)
-
+- **Secure Voting Process**: The app ensures a secure and transparent voting process.
+  
 ![VotingAppAddPartyCandidate](https://github.com/Aban3049/VotingApp/assets/157634467/096c5884-268b-4d28-ac4d-5425a6c5c1b8)
 
 ## Getting Started
