@@ -1,4 +1,4 @@
-#Voting App
+# Voting App
 
 Welcome to the Voting App repository, where voting is made secure and accessible through biometric authentication. This application allows administrators to create user profiles for voters, who can then authenticate using fingerprint and face recognition to cast their votes.
 
@@ -23,12 +23,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Android Studio Iguana 
+- Android Studio Arctic Fox | 2020.3.1 Patch 2 or higher
+- Kotlin Plugin
+- Firebase Tools
+- An active Firebase project
 
 ## Built With
 
-* Kotlin
-* Database - Firebase
+- **Mobile Frontend**: Kotlin, XML
+- **Backend**: Firebase (Authentication, Database, Storage, Hosting)
+- **Real-time Database**: Firebase Realtime Database
+- **Notifications**: Firebase Cloud Messaging
 
 ## Authors
 
@@ -38,3 +43,13 @@ Android Studio Iguana
 ## License
 
 This project is Unlicensed feel free to use.
+
+## Contribution
+We encourage contributions. Please follow our contribution guidelines for a productive collaboration.
+
+## Contact
+For any questions or suggestions, feel free to open an issue in the repository.
+
+---
+
+Revolutionizing voting system with a touch of technology.
