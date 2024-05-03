@@ -28,6 +28,12 @@ These instructions will get you a copy of the project up and running on your loc
 - Firebase Tools
 - An active Firebase project
 
+### Getting Started 🚀
+
+To get started, clone the repository to your local machine:
+
+    git clone https://github.com/Aban3049/VotingApp.git
+
 ## Built With
 
 - **Mobile Frontend**: Kotlin, XML
